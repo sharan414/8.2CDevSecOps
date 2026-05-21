@@ -203,6 +203,8 @@ SNYK_PROJECT_ID=<PROJECT_ID> npm start
 
 ** The app will continue to work normally even if it's not provided a project id
 
+Testing automatic Jenkins trigger for 7.1C Task 1.
+
 ## Fixing the issues
 To find these flaws in this application (and in your own apps), run:
 ```
